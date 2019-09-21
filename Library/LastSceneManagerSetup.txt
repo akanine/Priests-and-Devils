@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/PAD.unity
+  isLoaded: 1
+  isActive: 1
